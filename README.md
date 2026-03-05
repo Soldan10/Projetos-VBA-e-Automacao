@@ -3,7 +3,7 @@ Repositório destinado ao armazenamento de projetos desenvolvidos durante o curs
 
 Jogo da Memória Interativo
 
-Descrição 
+Descrição:
 
 Um jogo de memória funcional desenvolvido inteiramente dentro do Microsoft Excel.
 
@@ -11,13 +11,14 @@ PT-BR: Utiliza lógica de matrizes (arrays) para o sorteio aleatório das cartas
 
 Sistema de Gestão
 
-Descrição 
+Descrição:
 
 Ferramenta de automação voltada para a gestão de dados e processos.
 
 PT-BR: Implementação de UserForms para entrada de dados, validação de campos e organização automática de planilhas.
 
-Tecnologias e Habilidades
+
+Tecnologias e Habilidades:
 
 VBA (Visual Basic for Applications).
 
